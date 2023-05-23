@@ -181,7 +181,7 @@
         <version.snowflake>3.13.22</version.snowflake>
         <version.spanner>2.7.8</version.spanner>
         <version.springjdbc>5.3.19</version.springjdbc>
-        <version.sqlite>3.34.0</version.sqlite>
+        <version.sqlite>3.41.2.2</version.sqlite>
         <version.testcontainers>1.15.3</version.testcontainers>
     </properties>
 
